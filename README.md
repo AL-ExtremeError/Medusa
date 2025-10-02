@@ -2,7 +2,7 @@
 <img width="800" height="400" alt="Under_Contstruction" src="https://github.com/user-attachments/assets/af5ce3f6-0441-4adc-bd16-d6cb73a276e9" />
 
 
-Welcome to the Medusa Build Guide!
+# Welcome to the Medusa Build Guide!
 
 This guide will provide information, walk-thru's and files for a CoreXY Conversion of an Elegoo Neptune 4 Max 3d Printer which I call, Medusa.
 
