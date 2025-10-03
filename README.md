@@ -1,5 +1,5 @@
 
-<img width="800" height="400" alt="Under_Contstruction" src="https://github.com/user-attachments/assets/af5ce3f6-0441-4adc-bd16-d6cb73a276e9" />
+<img height="200" alt="Under_Contstruction" src="https://github.com/user-attachments/assets/af5ce3f6-0441-4adc-bd16-d6cb73a276e9" />
 
 # **Welcome to the Medusa Build Guide!**
 
@@ -25,3 +25,10 @@ Although this was an overhaul, it could be built from scratch without the [Hepha
 
 
 ***
+<p align="center">
+<a href="https://ko-fi.com/alextremeerror" target="_blank">
+  <img src="https://github.com/user-attachments/assets/04c2a046-8e7a-457a-9ea1-406732049ebb" alt="Support AL-ExtremeError" height=150px/>
+</a>
+</p>
+
+
