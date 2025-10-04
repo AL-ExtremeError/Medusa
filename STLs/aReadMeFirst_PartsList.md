@@ -55,13 +55,16 @@
 - Used for X Axis
 - Qty 1 will need to be printed
 
+### Medusa_Toolhead_Clip_V2-Body.stl
+- Used for X Axis Print Head (Neptune 4 Max Print Head Specifically)
+  - This will provide quick change of Print Head by sliding on & off the X Carriage
+- Qty 1 per Print Head will need to be printed
+
 ### Medusa_X_Axis_Carriage_V2a_W_EndStop.stl
 - Used for X Axis
 - Has a spot for an Limit End Stop Switch
   - Will need M2 Heated Inserts
 - Qty 1 will need to be printed
-
-
 
 ****
 ## <ins>Y Axis End Stop / Linear Rod Holder</ins> (2 Rear versions available)
@@ -83,9 +86,3 @@
 - Qty 1 will need to be printed
 
 ****
-
-### Medusa_Toolhead_Clip_V2-Body.stl
-
-****
-
-
