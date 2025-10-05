@@ -40,6 +40,7 @@ Upgrades & Modifications contained in this build from previous build:
 
 **General Information**
 * [Materials & Cost](https://github.com/AL-ExtremeError/Medusa/wiki/Materials-&-Cost)
+* [Design-&-Dimensions](https://github.com/AL-ExtremeError/Medusa/wiki/Design-&-Dimensions)
 
 
 ***
