@@ -12,6 +12,9 @@
   </tr>
 </table>
 
+# Please Note: As of November 2025, updates are being made to increase stability and print quality so documentation on this build is being delayed
+
+
 This guide will provide information, walk-thru's and files for a CoreXY Conversion of an Elegoo Neptune 4 Max 3d Printer which I call, Medusa.
 
 This build is an overhaul of my previous conversion, Hephaestus (https://github.com/AL-ExtremeError/Hephaestus.github.io).
